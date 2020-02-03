@@ -6,13 +6,13 @@ services:
     ports:
       - "8000:8000"
     volumes:
-      - .:/app
+      - ./app:/app
 
   composer:
     image: composer/composer:php7
     command: install
     volumes:
-      - .:/app
+      - ./app:/app
 
   db:
     image: mysql
