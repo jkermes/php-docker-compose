@@ -1,4 +1,4 @@
-# Dead simple LAMP stack with Docker compose
+# Dead simple php stack with Docker compose
 
 ## Installation
 Create environment file from template
