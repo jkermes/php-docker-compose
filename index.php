@@ -1,5 +1,3 @@
 <?php
 
-echo "Hello World 33";
-
-?>
+echo phpinfo();
