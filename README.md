@@ -1,4 +1,4 @@
-# Dead simple php stack with Docker compose
+# Dead simple php development stack with Docker compose
 Used components:
 - PHP 7
 - Composer
